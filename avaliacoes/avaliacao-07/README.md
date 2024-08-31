@@ -1,4 +1,4 @@
-##*Atividade proposta:*
+## *Atividade proposta:*
 ### *Executar o codelab em https://docs.flutter.dev/get-started/codelab*
 ### *Filmar a execução do Programa.*
 ### *Dá o seu nome(dupla) à barra da aplicação.*
